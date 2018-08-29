@@ -19,3 +19,6 @@ yarn run build
 ```
 yarn run lint
 ```
+
+
+[**Specification**](https://github.com/tastejs/hacker-news-pwas#specification)
